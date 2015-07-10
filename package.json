@@ -1,0 +1,9 @@
+{
+  "name": "urbanGchatBot",
+  "version": "0.0.0",
+  "dependencies": {
+    "request": "*",
+    "hangupsjs": "*",
+    "q": "*"
+  }
+}
